@@ -1,0 +1,8 @@
+{
+  "source": "sample-7",
+  "observedAt": "2026-11-17T08:00:00.000Z",
+  "items": [
+    {"id": "7-A", "label": "访学课程候补样例甲", "state": "active", "revision": 1},
+    {"id": "7-B", "label": "访学课程候补样例乙", "state": "pending", "revision": 1}
+  ]
+}
